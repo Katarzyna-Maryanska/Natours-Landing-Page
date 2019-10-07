@@ -4,5 +4,7 @@ Designed by Jonas Schmedtmann's.
 
 This site is published at https://katarzyna-maryanska.github.io/Natours-Landing-Page/.
 
+![](img/Natours.jpg)
+
 ## Setup
 Run npm install before start.
